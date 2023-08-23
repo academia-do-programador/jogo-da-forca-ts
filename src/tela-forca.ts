@@ -145,4 +145,4 @@ class TelaForca {
   }
 }
 
-// window.addEventListener('load', () => new TelaForca());
+window.addEventListener('load', () => new TelaForca());
