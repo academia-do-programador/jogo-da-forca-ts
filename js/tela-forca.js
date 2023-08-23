@@ -95,5 +95,5 @@ class TelaForca {
         this.pbImagemForca.src = `assets/${imagensForca[this.jogoDaForca.erros]}.png`;
     }
 }
-// window.addEventListener('load', () => new TelaForca());
+window.addEventListener('load', () => new TelaForca());
 //# sourceMappingURL=tela-forca.js.map
